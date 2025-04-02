@@ -75,7 +75,7 @@ You can find the PDF extraction evaluation template [here](https://github.com/Bi
 ## How to Run the Application Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Assignment-2.git
+   git clone [https://github.com/you-user-name/Text-Extraction-FullStack.git]
    cd Assignment-2
    ```
 
