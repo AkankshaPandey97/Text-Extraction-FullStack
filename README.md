@@ -63,7 +63,7 @@ The Automated Text Extraction Application aims to transform unstructured text da
 ## Architecture Diagram
 ![Architecture Diagram](https://github.com/BigDataIA-Fall2024-TeamA7/Assignment-2/blob/main/architecture_diagram/architecture_diagram.png)
 
-## Codelab link: [Codelab Document](https://codelabs-preview.appspot.com/?file_id=https://docs.google.com/document/d/12JeDAVi8MTSUe7OpSaZXqRY3w_g-el0ALN3J2ZGNFZI/edit?tab=t.0#0)
+
 
 ## Demo Video
 You can view the demo video by clicking [here](https://github.com/BigDataIA-Fall2024-TeamA7/Assignment-2/blob/main/demo/3787aaa2-03a1-42e6-80b0-05af7b1f3191.MP4).
@@ -111,15 +111,3 @@ You can find the PDF extraction evaluation template [here](https://github.com/Bi
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
 - [Google Cloud Platform](https://cloud.google.com/)
-
-## Team Contributions
-| Name                        | Contribution % | Contributions                                      |
-|---------------------------  |----------------|----------------------------------------------------|
-| Sai Pranavi Jeedigunta      | 33%            | Developed Airflow pipelines for data acquisition   |
-| Akanksha Pandey             | 33%            | Implemented FastAPI backend and JWT authentication |
-| Kalash Desai                | 33%            | Created Streamlit frontend and integrated services |
-
----
-
-## **Attestation and Contribution Declaration**:
-   > WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK.
