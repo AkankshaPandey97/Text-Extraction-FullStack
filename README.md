@@ -61,7 +61,7 @@ The Automated Text Extraction Application aims to transform unstructured text da
 - Experience with Docker
 
 ## Architecture Diagram
-![Architecture Diagram](https://github.com/BigDataIA-Fall2024-TeamA7/Assignment-2/blob/main/architecture_diagram/architecture_diagram.png)
+![Architecture Diagram](architecture_diagram/architecture_diagram.png)
 
 
 
