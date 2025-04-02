@@ -65,12 +65,10 @@ The Automated Text Extraction Application aims to transform unstructured text da
 
 
 
-## Demo Video
-You can view the demo video by clicking [here](https://github.com/BigDataIA-Fall2024-TeamA7/Assignment-2/blob/main/demo/3787aaa2-03a1-42e6-80b0-05af7b1f3191.MP4).
 
 # PDF Extraction Evaluation Template
 
-You can find the PDF extraction evaluation template [here](https://github.com/BigDataIA-Fall2024-TeamA7/Assignment-2/blob/main/pdf_extraction_evalutaion/PDF_Extraction_API_Evaluation_Template_.pdf).
+You can find the PDF extraction evaluation template [here](pdf_extraction_evalutaion/PDF_Extraction_API_Evaluation_Template_.pdf).
 
 ## How to Run the Application Locally
 1. Clone the repository:
